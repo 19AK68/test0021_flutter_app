@@ -92,7 +92,7 @@ void main (){
           appBar: new AppBar(),
           body: new NewsBox('Новый урок',
               'бла-бла-бла бла бла бла бла-бла-бла бла бла блабла-бла-бла бла бла блабла-бла-бла бла бла бла',
-              imageurl: 'https://flutter.su/favicon.png' ),
+              imageurl: 'https://flutter.su/favicon.png', like:true, num: 101, ),
 
 
       )
